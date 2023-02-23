@@ -1,12 +1,12 @@
 # CCO_2023_1
 ## Repositório das aulas de PI
--Aula 01 
- -Comandos terminal
+- Aula 01 
+ - Comandos terminal
  ```
  cd
  ls
  ```
- -Comandos git
+ - Comandos git
  ```
  git clone 
  git status
